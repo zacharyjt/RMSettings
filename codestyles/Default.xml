@@ -1,0 +1,12 @@
+<code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="105" />
+  <Ruby>
+    <option name="INDENT_WHEN_CASES" value="true" />
+  </Ruby>
+  <codeStyleSettings language="ruby">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="USE_RELATIVE_INDENTS" value="false" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>

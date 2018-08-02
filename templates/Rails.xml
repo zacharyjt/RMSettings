@@ -1,0 +1,8 @@
+<templateSet group="Rails">
+  <template name="block" value="$methodname$ do&#10;  $SELECTION$&#10;end" description="Indents code and wraps in a block" toReformat="true" toShortenFQNames="true">
+    <variable name="methodname" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+</templateSet>
